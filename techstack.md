@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 kwongtn/jejak-backend is built on the following main stack:
+
 - [Python](https://www.python.org) – Languages
 - [Django](https://www.djangoproject.com/) – Frameworks (Full Stack)
 - [Gunicorn](http://gunicorn.org/) – Web Servers
@@ -11,11 +12,13 @@ kwongtn/jejak-backend is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 kwongtn/jejak-backend is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/994/4aGjtNQv.png' alt='Django'/> [Django](https://www.djangoproject.com/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1091/gunicorn.png' alt='Gunicorn'/> [Gunicorn](http://gunicorn.org/) – Web Servers
@@ -25,14 +28,15 @@ kwongtn/jejak-backend is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [kwongtn/jejak-backend](https://github.com/kwongtn/jejak-backend)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|20<br/>Tools used|11/09/23 <br/>Report generated|
+|20<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -135,19 +139,19 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[black](https://pypi.org/black)|v22.12.0|01/04/23|Kwong Tung Nan |MIT|N/A|
-|[django-cors-headers](https://pypi.org/django-cors-headers)|v3.13.0|01/04/23|Kwong Tung Nan |MIT|N/A|
-|[django-debug-toolbar](https://pypi.org/django-debug-toolbar)|v3.8.1|01/04/23|Kwong Tung Nan |BSD-3-Clause|N/A|
-|[django-extensions](https://pypi.org/django-extensions)|v3.2.1|01/04/23|Kwong Tung Nan |MIT|N/A|
-|[django-model-utils](https://pypi.org/django-model-utils)|v4.3.1|01/04/23|Kwong Tung Nan |BSD-3-Clause|N/A|
-|[firebase-admin](https://pypi.org/firebase-admin)|v6.0.1|01/04/23|Kwong Tung Nan |Apache-2.0|N/A|
-|[flake8](https://pypi.org/flake8)|v6.0.0|01/04/23|Kwong Tung Nan |MIT|N/A|
-|[ipykernel](https://pypi.org/ipykernel)|v6.19.4|01/04/23|Kwong Tung Nan |BSD-3-Clause|N/A|
-|[pendulum](https://pypi.org/pendulum)|v2.1.2|01/04/23|Kwong Tung Nan |MIT|N/A|
-|[promise](https://pypi.org/promise)|v2.3|01/04/23|Kwong Tung Nan |MIT|N/A|
-|[sentry-sdk](https://pypi.org/sentry-sdk)|v1.12.1|01/04/23|Kwong Tung Nan |MIT|[CVE-2023-28117](https://github.com/advisories/GHSA-29pr-6jr8-q5jm) (High)|
+|[black](https://pypi.org/project/black)|v22.12.0|01/04/23|Kwong Tung Nan |MIT|N/A|
+|[django-cors-headers](https://pypi.org/project/django-cors-headers)|v3.13.0|01/04/23|Kwong Tung Nan |MIT|N/A|
+|[django-debug-toolbar](https://pypi.org/project/django-debug-toolbar)|v3.8.1|01/04/23|Kwong Tung Nan |BSD-3-Clause|N/A|
+|[django-extensions](https://pypi.org/project/django-extensions)|v3.2.1|01/04/23|Kwong Tung Nan |MIT|N/A|
+|[django-model-utils](https://pypi.org/project/django-model-utils)|v4.3.1|01/04/23|Kwong Tung Nan |BSD-3-Clause|N/A|
+|[firebase-admin](https://pypi.org/project/firebase-admin)|v6.0.1|01/04/23|Kwong Tung Nan |Apache-2.0|N/A|
+|[flake8](https://pypi.org/project/flake8)|v6.0.0|01/04/23|Kwong Tung Nan |MIT|N/A|
+|[ipykernel](https://pypi.org/project/ipykernel)|v6.19.4|01/04/23|Kwong Tung Nan |BSD-3-Clause|N/A|
+|[pendulum](https://pypi.org/project/pendulum)|v2.1.2|01/04/23|Kwong Tung Nan |MIT|N/A|
+|[promise](https://pypi.org/project/promise)|v2.3|01/04/23|Kwong Tung Nan |MIT|N/A|
+|[sentry-sdk](https://pypi.org/project/sentry-sdk)|v1.12.1|01/04/23|Kwong Tung Nan |MIT|[CVE-2023-28117](https://github.com/advisories/GHSA-29pr-6jr8-q5jm) (High)|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
